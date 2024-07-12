@@ -1,0 +1,5 @@
+
+enum NetworkError {
+  noInternet,
+  failedLoading,
+}

@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "currency_screen": "Currency rates",
+  "retry": "Retry",
+  "settings_screen": "Settings",
+  "dark_mode": "Dark Mode",
+  "language": "Language",
+  "currency_fetch_error": "Failed to fetch currencies.",
+  "no_internet_error": "There is no internet connection.",
+  "english": "English",
+  "ukrainian": "Ukrainian",
+  "go_to_currency_page": "Go to currency",
+  "go_to_settings_page": "Go to settings",
+  "home_title": "In this application, you can see the exchange rate of the NBU"
+
+}

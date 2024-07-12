@@ -1,0 +1,15 @@
+{
+  "home": "Головна",
+  "currency_screen": "Курс валют",
+  "retry": "Повторити",
+  "settings_screen": "Налаштування",
+  "dark_mode": "Темний режим",
+  "language": "Мова",
+  "currency_fetch_error": "Не вдалося отримати валюти.",
+  "no_internet_error": "Відсутнє зʼєднання з мережею інтернет.",
+  "english": "Англійська",
+  "ukrainian": "Українська",
+  "go_to_currency_page": "Перейти до валют",
+  "go_to_settings_page": "Перейти до налаштувань",
+  "home_title": "В цьому додатку ви можете подивитись курс валют НБУ"
+}
