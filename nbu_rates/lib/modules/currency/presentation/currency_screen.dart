@@ -76,7 +76,7 @@ class _CurrencyScreenState extends State<CurrencyScreen> {
             child: Row(
               children: [
                 Text(
-                  DateFormatter.formatDate(state.selectedDate),
+                  DateFormatter.shwoFormat(state.selectedDate),
                   style: const TextStyle(fontSize: 16.0),
                 ),
                 const SizedBox(width: 8.0),
